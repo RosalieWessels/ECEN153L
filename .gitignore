@@ -1,0 +1,28 @@
+# Simulation / generated output
+**/simulation/
+**/sim/
+**/results/
+**/PrimeSim*/
+**/HSPICE*/
+**/history_*/
+**/*.tr0
+**/*.ac0
+**/*.sw0
+**/*.ic0
+**/*.mt0
+**/*.st0
+**/*.pa0
+**/*.log
+**/*.lis
+**/*.out
+**/*.raw
+**/*.fsdb
+**/*.vcd
+
+# Local symlink
+latestResults
+
+# Temp files
+**/*~
+**/*.bak
+**/.DS_Store
